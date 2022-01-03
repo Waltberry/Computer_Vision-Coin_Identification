@@ -1,3 +1,2 @@
 # Computer_Vision-Coin_Identification
-Coin identification is a computer vision problem which uses the Hough Circle transform from OpenCV. Simply identifies the coins and give it a value.
-Still testing out some data... not very stable. Can give suggestions, much appreciated. 
+Is a Guided project from 365 Data Science https://learn.365datascience.com/courses/python-programmer-bootcamp/what-does-the-course-cover/
